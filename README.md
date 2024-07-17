@@ -1,9 +1,9 @@
 <!-- <p align="center">
   Visitor count<br>
-  <img src="https://profile-counter.glitch.me/itgoyo/count.svg" />
+  <img src="https://profile-counter.glitch.me/TommyTeo/count.svg" />
 </p> -->
 
-<h1 align="center">Hi 👋, I'm itgoyo</h1>
+<h1 align="center">Hi 👋, I'm TommyTeo</h1>
 <h3 align="center">A passionate fullstack developer from China</h3>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -11,20 +11,20 @@
 
 
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=itgoyo&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
+![Github Stats](https://github-readme-stats.vercel.app/api?username=TommyTeo&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
 
-![](https://raw.githubusercontent.com/itgoyo/github-stats-transparent/output/generated/overview.svg)
-![](https://raw.githubusercontent.com/itgoyo/github-stats-transparent/output/generated/languages.svg)
+![](https://raw.githubusercontent.com/TommyTeo/github-stats-transparent/output/generated/overview.svg)
+![](https://raw.githubusercontent.com/TommyTeo/github-stats-transparent/output/generated/languages.svg)
 
 
 <details open>
  <summary> 😇 <b>Medium Published articles</b>: </summary>
 <br>
-    <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@itgoyo/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@itgoyo/0" alt="Recent Article 0"></a>
+    <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@TommyTeo/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@TommyTeo/0" alt="Recent Article 0"></a>
   <br>
-    <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@itgoyo/1"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@itgoyo/1" alt="Recent Article 1"></a>
+    <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@TommyTeo/1"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@TommyTeo/1" alt="Recent Article 1"></a>
   <br>
-    <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@itgoyo/2"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@itgoyo/2" alt="Recent Article 2"></a>
+    <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@TommyTeo/2"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@TommyTeo/2" alt="Recent Article 2"></a>
   <br>
 
 </details>
@@ -194,7 +194,7 @@ No activity tracked
 
 | :pencil2: | :video_game: | :book: |:clapper:  |
 | --- | --- | --- | --- |
-| [Blogs](https://itgoyo.github.io/) |[Games](https://itgoyo.github.io/games/)  | [Books](https://itgoyo.github.io/books/) | [Movies](https://itgoyo.github.io/movies/) |
+| [Blogs](https://TommyTeo.github.io/) |[Games](https://TommyTeo.github.io/games/)  | [Books](https://TommyTeo.github.io/books/) | [Movies](https://TommyTeo.github.io/movies/) |
 
 
 ### :zap: Recent Activity
